@@ -26,10 +26,10 @@
   {
     "name": "purplOS Dev",
     "url": "http://update-server.api.froggitti.net:81/latest/dev.ota"
-  }
+  },
   {
     "name": "purplOS OSKR",
     "url": "http://update-server.api.froggitti.net:81/latest/oskr.ota"
-  },
+  }
 ]
 
