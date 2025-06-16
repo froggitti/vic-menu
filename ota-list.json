@@ -22,6 +22,14 @@
   {
     "name": "ThommOS OSKR",
     "url": "http://anki.thommo.dev/latest-oskr.ota"
+  },
+  {
+    "name": "purplOS Dev",
+    "url": "http://update-server.api.froggitti.net:81/latest/dev.ota"
   }
+  {
+    "name": "purplOS OSKR",
+    "url": "http://update-server.api.froggitti.net:81/latest/oskr.ota"
+  },
 ]
 
